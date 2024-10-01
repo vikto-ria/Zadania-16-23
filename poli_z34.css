@@ -1,0 +1,46 @@
+h1 {
+    width: 400pt;
+    height: 4cm;
+    padding: 50px;
+    margin: 40px;
+    border: 4px ridge red;
+    background:  rgb(255,0,0);
+    text-align: center;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-color: #000000;
+    border-bottom-color: #FFFF00;
+    border-left-color: #800080;
+    border-right-color:#FF0000;
+    border-top-width: 10pt;
+    border-bottom-width: 10pt;
+    border-left-width: 10pt;
+    border-right-width: 10pt;</h1>
+}
+
+h2 {
+               font-size:15px;
+               width: 300pt;
+               height: 2cm;
+               padding: 30px;
+               margin-left: 340px;
+               border: 7px double silver;
+               background:  rgb(139,0,0);
+               text-align: center;
+               margin-left: 0;
+               margin-right: auto;
+}
+
+h3 {
+               font-size: 15px;
+               width: 200pt;
+               height: 3cm;
+               padding: 20px;
+               margin-left: 710px;
+               border: 10px inset purple;
+               background: rgb(205,92,92);
+               margin-right: 0;
+               margin-left: auto;
+               text-align: center;
+}
